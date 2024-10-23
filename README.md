@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://capsule-render.vercel.app/api?section=footer)?type = waving?color = auto?height = 150?section = header?fontSize = 30?animation = twinklingtext = Jisoo's github🙋‍♀️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwltn&layout=compact)
 
 <!--
