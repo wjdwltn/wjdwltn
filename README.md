@@ -1,5 +1,4 @@
 ## Hi there 👋
-![](https://capsule-render.vercel.app/api?section=footer)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwltn&layout=compact)
 
 <!--
