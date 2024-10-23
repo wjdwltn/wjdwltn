@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisu&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisu&show_icons=true&theme=radical)
 
 <!--
 **wjdwltn/wjdwltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
