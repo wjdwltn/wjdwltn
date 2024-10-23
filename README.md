@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisoo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwltn&layout=compact)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdwltn&show_icons=true&theme=radical)
 
 <!--
 **wjdwltn/wjdwltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
