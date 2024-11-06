@@ -1,7 +1,7 @@
 ## About me 👋
 
 <div align=center><h3>📚 Tech Stack</h3></div>
-
+🔭 I'm majoring in Computer Engineering. ...
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/notion-F8DC75?style=for-the-badge&logo=notion&logoColor=white">
   <br>
+  🌱 I’m currently learning ...
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="61" height="61" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="61" height="61" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" /></div><br>
