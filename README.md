@@ -16,7 +16,6 @@
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="61" height="61" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" /></div><br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwltn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
