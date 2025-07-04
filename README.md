@@ -11,13 +11,14 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/notion-F8DC75?style=for-the-badge&logo=notion&logoColor=white">
   <br>
-  🌱 I’m currently learning ...
+  🌱 I’m currently learning ....
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="61" height="61" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="61" height="61" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" /></div><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdwltn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> 
+
 
 <!--
 **wjdwltn/wjdwltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
